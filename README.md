@@ -25,33 +25,31 @@ Introducción y Conceptos
 
 Docker es una plataforma de contenedores que permite empaquetar aplicaciones y sus dependencias en unidades estandarizadas llamadas contenedores.
 
-Piensa en un contenedor como una caja liviana y portátil que contiene todo lo necesario para ejecutar una aplicación: código, bibliotecas, variables de entorno y archivos de configuración.
-
 ¿Qué es Kubernetes y K3s?
 
 Kubernetes (K8s) es un orquestador de contenedores que automatiza:
 
-Despliegue
+- Despliegue
 
-Escalado
+- Escalado
 
-Gestión de aplicaciones
+- Gestión de aplicaciones
 
 K3s es una distribución ligera de Kubernetes desarrollada por Rancher, ideal para:
 
-Entornos con recursos limitados
+- Entornos con recursos limitados
 
-Desarrollo local
+- Desarrollo local
 
-Edge y homelabs
+- Edge y homelabs
 
 ¿Qué es Linkding?
 
 Linkding es un gestor de marcadores auto-alojado, similar a:
 
-Pocket
+- Pocket
 
-Raindrop.io
+- Raindrop.io
 
 Permite guardar, organizar y buscar enlaces web.
 
